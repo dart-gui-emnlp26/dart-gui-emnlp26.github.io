@@ -21,7 +21,7 @@
       <div class="overview-container">
         <div class="overview-hero">
           <h1>DART</h1>
-          <p class="subtitle">Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation</p>
+          <p class="subtitle">Fully Decoupled Reinforcement Learning with Adaptive Data Curation for GUI Agents</p>
           <p class="notice-anon">🔒 Anonymous Submission for Review</p>
         </div>
         
